@@ -73,7 +73,7 @@ Project
 
 ⚙️ Installation & Setup
 1. Clone the repository
-- git clone https://github.com/your-username/Search-Pagination-Project.git
+- git clone https://github.com/ArifRosandika/Search-Pagination-Project.git
 - cd Search-Pagination-Project
 
 2. Backend Setup
